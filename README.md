@@ -72,4 +72,4 @@ iv.	Easy maintenance: Because the star schema has a simple design, it makes it e
 ## Conclusion
 It is found that employees in “Research Scientist” department and “Sales Executive” job role receive the highest monthly payment.
 ## Dashboard
- ![Screenshot (236)]("C:\Users\KIIT\Pictures\Screenshots\HR DATA ANALYTICS.png")
+ ![Screenshot (236)](https://github.com/Swarnav-Kumar/Psyliq-Data-Analyst-Internship/assets/117315636/a8aab175-c142-4ea8-adc0-f36037a7fae9)
